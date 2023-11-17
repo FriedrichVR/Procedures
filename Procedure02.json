@@ -1,0 +1,32 @@
+
+    1.      WRS Valve Configuration: ENSURE WRSValve Configuration is 
+	the Nominal one following the next Check List.[FNB1]    
+
+	Nominal Reactor Water Valve Configuration is defined in 
+	[RefLPRR-8000-3DEIN-002 - Operation Manual, Section 5.1.2] 
+	and is the onerequired for any of the operational modes: 
+	Non-Operative, Circulation Only,Heating and Cooling. 
+
+1.1.      
+
+1)     ENSURE [2210-VE-001]is OPEN
+
+2)     ENSURE [2210-VD-002]is OPEN
+
+3)     ENSURE [2210-VD-004]is OPEN
+
+4)     ENSURE [2210-VD-005]is CLOSE
+
+5)     ENSURE [2210-VE-006]is CLOSE
+
+6)     ENSURE [2210-VD-007]is CLOSE
+
+7)     ENSURE [2210-VD-008]is CLOSE R0227 
+
+
+	(L: ±0.00m) Valves required tobe open should be ensured 
+	before valves required to be closed are operated[FNB2]  
+
+2.      INSPECT the WPS, PWS, and WRS Plant componentsand 
+	pipelines in the room R0227 (L: ±0.00m)   
+ 
